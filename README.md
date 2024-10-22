@@ -1,4 +1,4 @@
-# CoDivas' HackerRamp: WeForShe Project - FashionFusion Try-On 
+# Fashion Insta
 
 ## Problem Statement
 
