@@ -1,4 +1,4 @@
-# CoDivas' HackerRamp: WeForShe Project - FashionFusion Try-On ([Presentation Link](https://docs.google.com/presentation/d/1yKqT0WgER9fl6irTU28eS8ZR80N45BVcXEwQZqRdjfk/edit?usp=sharing))
+# CoDivas' HackerRamp: WeForShe Project - FashionFusion Try-On 
 
 ## Problem Statement
 
